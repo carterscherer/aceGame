@@ -1,5 +1,5 @@
 
-var end = 0 // change this to stop the counter at a higher value
+var end = -1 // change this to stop the counter at a higher value
 var refresh=1000; // Refresh rate in milli seconds
 
 function display_c(start){
